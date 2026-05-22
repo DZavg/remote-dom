@@ -8,7 +8,7 @@
     "./examples/*"
   ],
   "scripts": {
-    "test": "loom test",
+    "test": "loom test && yarn workspace @remote-ui/rpc test",
     "lint": "loom lint",
     "type-check": "loom type-check",
     "build": "loom build",

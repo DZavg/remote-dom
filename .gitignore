@@ -10,3 +10,4 @@ packages/*/*.d.ts
 packages/*/*.js
 !packages/*/.eslintrc.js
 *.log
+.idea
